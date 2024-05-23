@@ -12,6 +12,7 @@ edition = "2021"
 
 # Author Meta
 authors = [ "Thomas Reddy <contact@thomasreddy.com>" ]
+repository = "https://github.com/standard-abstractions/dagger_macros"
 
 [lib]
 proc-macro = true
