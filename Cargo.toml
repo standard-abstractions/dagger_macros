@@ -4,6 +4,8 @@ name = "dagger_macros"
 version = "0.1.0"
 description = "Macros for dagger."
 keywords = [ "ui", "graphics", "macro", "proc-macro", "dagger" ]
+readme = "README.md"
+license = "GPL-3.0-or-later"
 
 # Rust Meta
 edition = "2021"
